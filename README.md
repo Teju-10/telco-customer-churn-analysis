@@ -54,7 +54,3 @@ Telco Customer Churn Dataset from Kaggle.
 Dataset Link:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
----
-
-## Author
-Tejashree PN
